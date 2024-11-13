@@ -7,7 +7,7 @@ const BlogCard = ({ blog }) => {
   return (
     <div className="transition border-opacity-30 border-2 hover:scale-105 border-primary hover:border-secondary">
       <Link
-        to={`/blogs/${id}`}
+        to={`/blogDetails/${id}`}
         className="max-w-sm mx-auto group hover:no-underline focus:no-underline"
       >
         <img

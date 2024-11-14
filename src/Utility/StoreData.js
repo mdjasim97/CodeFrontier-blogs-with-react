@@ -30,4 +30,4 @@ const deleteLocalStorageData = (id) => {
 }
 
 
-export {saveLocalStorageData, deleteLocalStorageData}
+export {getLocalStorageData, saveLocalStorageData, deleteLocalStorageData}

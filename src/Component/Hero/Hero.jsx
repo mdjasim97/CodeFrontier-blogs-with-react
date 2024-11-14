@@ -5,10 +5,10 @@ const Hero = () => {
     <div className="hero -mt-16">
       <div className="hero-content text-center">
         <div className="max-w-lg">
-          <h1 className="text-5xl font-bold">
+          <h1 className="text-4xl font-bold">
             Welcome to{" "}
             <span className="bg-gradient-to-r bg-300% from-primary via-blue-500 to-secondary text-transparent bg-clip-text animate-gradient">
-              ByteBlaze
+            CodeFrontier
             </span>
           </h1>
           <p className="py-6">
